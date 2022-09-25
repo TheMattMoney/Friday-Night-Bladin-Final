@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				43
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "posidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "posleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pos down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				89
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "posup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "posright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/draco",
+	"position": [
+		50,
+		-25
+	],
+	"healthicon": "ryuga",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		200,
+		200
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

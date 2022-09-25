@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lighting.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="light00000" x="0" y="0" width="306" height="931"/>
+	<SubTexture name="light00001" x="0" y="0" width="306" height="931"/>
+	<SubTexture name="light00002" x="0" y="0" width="306" height="931"/>
+	<SubTexture name="light00003" x="306" y="0" width="214" height="814" frameX="-59" frameY="-28" frameWidth="306" frameHeight="931"/>
+	<SubTexture name="light00004" x="520" y="0" width="212" height="768" frameX="-56" frameY="-32" frameWidth="306" frameHeight="931"/>
+	<SubTexture name="light00005" x="732" y="0" width="212" height="768" frameX="-56" frameY="-32" frameWidth="306" frameHeight="931"/>
+	<SubTexture name="light00006" x="732" y="0" width="212" height="768" frameX="-56" frameY="-32" frameWidth="306" frameHeight="931"/>
+	<SubTexture name="light00007" x="732" y="0" width="212" height="768" frameX="-56" frameY="-32" frameWidth="306" frameHeight="931"/>
+	<SubTexture name="light00008" x="732" y="0" width="212" height="768" frameX="-56" frameY="-32" frameWidth="306" frameHeight="931"/>
+	<SubTexture name="light00009" x="732" y="0" width="212" height="768" frameX="-56" frameY="-32" frameWidth="306" frameHeight="931"/>
+	<SubTexture name="light00010" x="732" y="0" width="212" height="768" frameX="-56" frameY="-32" frameWidth="306" frameHeight="931"/>
+	<SubTexture name="light10000" x="944" y="0" width="396" height="669"/>
+	<SubTexture name="light10001" x="944" y="0" width="396" height="669"/>
+	<SubTexture name="light10002" x="944" y="0" width="396" height="669"/>
+	<SubTexture name="light10003" x="1340" y="0" width="327" height="573" frameX="-33" frameY="-33" frameWidth="396" frameHeight="669"/>
+	<SubTexture name="light10004" x="1667" y="0" width="316" height="276" frameX="-39" frameY="-43" frameWidth="396" frameHeight="669"/>
+	<SubTexture name="light10005" x="0" y="931" width="316" height="276" frameX="-39" frameY="-43" frameWidth="396" frameHeight="669"/>
+	<SubTexture name="light10006" x="0" y="931" width="316" height="276" frameX="-39" frameY="-43" frameWidth="396" frameHeight="669"/>
+	<SubTexture name="light10007" x="0" y="931" width="316" height="276" frameX="-39" frameY="-43" frameWidth="396" frameHeight="669"/>
+	<SubTexture name="light10008" x="0" y="931" width="316" height="276" frameX="-39" frameY="-43" frameWidth="396" frameHeight="669"/>
+	<SubTexture name="light20000" x="316" y="931" width="404" height="765"/>
+	<SubTexture name="light20001" x="316" y="931" width="404" height="765"/>
+	<SubTexture name="light20002" x="316" y="931" width="404" height="765"/>
+	<SubTexture name="light20003" x="720" y="931" width="237" height="687" frameX="-134" frameY="-29" frameWidth="404" frameHeight="765"/>
+	<SubTexture name="light20004" x="957" y="931" width="223" height="242" frameX="-136" frameY="-31" frameWidth="404" frameHeight="765"/>
+	<SubTexture name="light20005" x="1180" y="931" width="223" height="242" frameX="-136" frameY="-31" frameWidth="404" frameHeight="765"/>
+</TextureAtlas>

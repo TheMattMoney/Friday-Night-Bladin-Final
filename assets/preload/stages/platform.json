@@ -1,0 +1,11 @@
+{
+	"directory": "",
+	"defaultZoom": 0.85,
+	"isPixelStage": false,
+	"timeBarColor":[255,255,255],
+	"boyfriend": [1290, 385],
+	"opponent": [235, 205],
+    "hitwindow":0.25,
+	"delay": 0.075
+
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options basic0000" x="0" y="0" width="384" height="116"/>
+	<SubTexture name="options white0000" x="384" y="0" width="523" height="159"/>
+	<SubTexture name="rr basic0000" x="0" y="159" width="399" height="108"/>
+	<SubTexture name="rr white0000" x="0" y="267" width="627" height="169"/>
+</TextureAtlas>

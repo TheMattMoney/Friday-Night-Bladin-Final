@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightingtwo.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bglight00000" x="0" y="0" width="201" height="385"/>
+	<SubTexture name="bglight00001" x="0" y="0" width="201" height="385"/>
+	<SubTexture name="bglight00002" x="0" y="0" width="201" height="385"/>
+	<SubTexture name="bglight00003" x="201" y="0" width="201" height="385"/>
+	<SubTexture name="bglight00004" x="201" y="0" width="201" height="385"/>
+	<SubTexture name="bglight00005" x="402" y="0" width="201" height="385"/>
+	<SubTexture name="bglight00006" x="603" y="0" width="201" height="385"/>
+	<SubTexture name="bglight10000" x="804" y="0" width="300" height="476"/>
+	<SubTexture name="bglight10001" x="804" y="0" width="300" height="476"/>
+	<SubTexture name="bglight10002" x="804" y="0" width="300" height="476"/>
+	<SubTexture name="bglight10003" x="1104" y="0" width="300" height="476"/>
+	<SubTexture name="bglight10004" x="1104" y="0" width="300" height="476"/>
+	<SubTexture name="bglight10005" x="1404" y="0" width="300" height="476"/>
+	<SubTexture name="bglight10006" x="1704" y="0" width="300" height="476"/>
+	<SubTexture name="bglight20000" x="0" y="476" width="187" height="381"/>
+	<SubTexture name="bglight20001" x="0" y="476" width="187" height="381"/>
+	<SubTexture name="bglight20002" x="0" y="476" width="187" height="381"/>
+	<SubTexture name="bglight20003" x="187" y="476" width="187" height="381"/>
+	<SubTexture name="bglight20004" x="187" y="476" width="187" height="381"/>
+	<SubTexture name="bglight20005" x="374" y="476" width="187" height="381"/>
+	<SubTexture name="bglight20006" x="561" y="476" width="187" height="381"/>
+	<SubTexture name="bglight30000" x="748" y="476" width="104" height="285"/>
+	<SubTexture name="bglight30001" x="748" y="476" width="104" height="285"/>
+	<SubTexture name="bglight30002" x="748" y="476" width="104" height="285"/>
+	<SubTexture name="bglight30003" x="852" y="476" width="104" height="285"/>
+	<SubTexture name="bglight30004" x="852" y="476" width="104" height="285"/>
+	<SubTexture name="bglight30005" x="956" y="476" width="104" height="285"/>
+	<SubTexture name="bglight30006" x="1060" y="476" width="104" height="285"/>
+	<SubTexture name="bglight40000" x="1164" y="476" width="369" height="356"/>
+	<SubTexture name="bglight40001" x="1164" y="476" width="369" height="356"/>
+	<SubTexture name="bglight40002" x="1164" y="476" width="369" height="356"/>
+	<SubTexture name="bglight40003" x="1533" y="476" width="369" height="356"/>
+	<SubTexture name="bglight40004" x="1533" y="476" width="369" height="356"/>
+	<SubTexture name="bglight40005" x="0" y="857" width="369" height="356"/>
+	<SubTexture name="bglight40006" x="369" y="857" width="369" height="356"/>
+</TextureAtlas>

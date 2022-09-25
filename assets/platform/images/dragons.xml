@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dragons.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dragons0000" x="5" y="5" width="0" height="0" frameX="-466" frameY="-384" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0001" x="5" y="5" width="0" height="0" frameX="-466" frameY="-384" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0002" x="5" y="5" width="0" height="0" frameX="-466" frameY="-384" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0003" x="25" y="5" width="597" height="337" frameX="-244" frameY="-295" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0004" x="642" y="5" width="902" height="505" frameX="-125" frameY="-134" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0005" x="642" y="5" width="902" height="505" frameX="-125" frameY="-134" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0006" x="1564" y="5" width="1041" height="611" frameX="-77" frameY="-28" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0007" x="1564" y="5" width="1041" height="611" frameX="-77" frameY="-28" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0008" x="2625" y="5" width="1028" height="627" frameX="-83" frameY="-12" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0009" x="2625" y="5" width="1028" height="627" frameX="-83" frameY="-12" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0010" x="5" y="652" width="1035" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0011" x="5" y="652" width="1035" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0012" x="1060" y="652" width="1034" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0013" x="1060" y="652" width="1034" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0014" x="5" y="652" width="1035" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0015" x="5" y="652" width="1035" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0016" x="1060" y="652" width="1034" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0017" x="1060" y="652" width="1034" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0018" x="5" y="652" width="1035" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0019" x="5" y="652" width="1035" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0020" x="1060" y="652" width="1034" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0021" x="1060" y="652" width="1034" height="638" frameX="-80" frameY="0" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0022" x="2625" y="5" width="1028" height="627" frameX="-83" frameY="-12" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0023" x="2625" y="5" width="1028" height="627" frameX="-83" frameY="-12" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0024" x="1564" y="5" width="1041" height="611" frameX="-77" frameY="-28" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0025" x="1564" y="5" width="1041" height="611" frameX="-77" frameY="-28" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0026" x="2114" y="652" width="1029" height="603" frameX="-72" frameY="-23" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0027" x="2114" y="652" width="1029" height="603" frameX="-72" frameY="-23" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0028" x="5" y="1310" width="969" height="556" frameX="-40" frameY="-44" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0029" x="5" y="1310" width="969" height="556" frameX="-40" frameY="-44" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0030" x="994" y="1310" width="262" height="161" frameX="-29" frameY="-154" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0031" x="1276" y="1310" width="93" height="58" frameX="-13" frameY="-206" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0032" x="1389" y="1310" width="162" height="65" frameX="-3" frameY="-213" frameWidth="1118" frameHeight="639"/>
+	<SubTexture name="dragons0033" x="1571" y="1310" width="170" height="72" frameX="0" frameY="-213" frameWidth="1118" frameHeight="639"/>
+</TextureAtlas>

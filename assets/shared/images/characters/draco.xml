@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ryuga-draco.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pos down0000" x="20" y="20" width="167" height="231" frameX="0" frameY="-5" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0001" x="20" y="20" width="167" height="231" frameX="0" frameY="-5" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0002" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0003" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0004" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0005" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0006" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0007" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0008" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0009" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0010" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0011" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0012" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="pos down0013" x="207" y="20" width="164" height="236" frameX="-2" frameY="0" frameWidth="167" frameHeight="236"/>
+	<SubTexture name="posidle0000" x="20" y="663" width="171" height="268" frameX="0" frameY="-7" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0001" x="20" y="663" width="171" height="268" frameX="0" frameY="-7" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0002" x="211" y="663" width="167" height="271" frameX="-2" frameY="-5" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0003" x="211" y="663" width="167" height="271" frameX="-2" frameY="-5" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0004" x="398" y="663" width="165" height="273" frameX="-3" frameY="-2" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0005" x="398" y="663" width="165" height="273" frameX="-3" frameY="-2" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0006" x="583" y="663" width="163" height="275" frameX="-4" frameY="-1" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0007" x="583" y="663" width="163" height="275" frameX="-4" frameY="-1" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0008" x="766" y="663" width="163" height="276" frameX="-4" frameY="0" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0009" x="766" y="663" width="163" height="276" frameX="-4" frameY="0" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0010" x="766" y="663" width="163" height="276" frameX="-4" frameY="0" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0011" x="766" y="663" width="163" height="276" frameX="-4" frameY="0" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0012" x="766" y="663" width="163" height="276" frameX="-4" frameY="0" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posidle0013" x="766" y="663" width="163" height="276" frameX="-4" frameY="0" frameWidth="171" frameHeight="276"/>
+	<SubTexture name="posleft0000" x="391" y="20" width="255" height="277" frameX="0" frameY="-1" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0001" x="391" y="20" width="255" height="277" frameX="0" frameY="-1" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0002" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0003" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0004" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0005" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0006" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0007" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0008" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0009" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0010" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0011" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0012" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posleft0013" x="666" y="20" width="251" height="278" frameX="-5" frameY="0" frameWidth="256" frameHeight="278"/>
+	<SubTexture name="posright0000" x="20" y="318" width="194" height="272" frameX="0" frameY="-1" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0001" x="20" y="318" width="194" height="272" frameX="0" frameY="-1" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0002" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0003" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0004" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0005" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0006" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0007" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0008" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0009" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0010" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0011" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0012" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posright0013" x="234" y="318" width="189" height="273" frameX="0" frameY="0" frameWidth="194" frameHeight="273"/>
+	<SubTexture name="posup0000" x="443" y="318" width="240" height="325"/>
+	<SubTexture name="posup0001" x="443" y="318" width="240" height="325"/>
+	<SubTexture name="posup0002" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0003" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0004" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0005" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0006" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0007" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0008" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0009" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0010" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0011" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0012" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+	<SubTexture name="posup0013" x="703" y="318" width="240" height="323" frameX="0" frameY="-2" frameWidth="240" frameHeight="325"/>
+</TextureAtlas>
