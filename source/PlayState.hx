@@ -525,6 +525,7 @@ class PlayState extends MusicBeatState
 				  parrry.frames = Paths.getSparrowAtlas('parrry',"platform");
 				  parrry.animation.addByPrefix('parryanim', 'parryanim', 23, false); //yes, the 23 is intentional
 				  parrry.alpha=0;
+				  parrry.scrollFactor.set();
 
 				  parrry.antialiasing = ClientPrefs.globalAntialiasing;
 				  spacebar.antialiasing = ClientPrefs.globalAntialiasing;
